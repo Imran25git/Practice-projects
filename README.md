@@ -1,2 +1,2 @@
 # Practice-projects
-Different projects making to sharpen coding skills.
+There are different basic coding projects available to sharpen coding skills.
