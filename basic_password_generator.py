@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Basic Password Generator Code in python
 import random
 input("Enter your name: ")
